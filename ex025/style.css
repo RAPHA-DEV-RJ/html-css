@@ -1,0 +1,39 @@
+h1{
+    background-color: lightgray;
+height: 69px;
+width: 300px;
+
+border-width: 10px;
+border-style: solid;
+border-color: darkslategray;
+/* como deixar o codigo menor, simples é so fazer a seguinte coisa, ir na sequencia border: ( width )10px, ( style ) solid, ( color ) darkslategray; em reusmo ficará assim: border: 10px, solid, darkslategray;  */
+
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+/*  como deixar o codigo menor, simples é so fazer a seguinte coisa, ir na sequencia 
+padding: ( top ) 10px, ( right ) 10px, ( bottom ) 10px, ( left ) 10px em reusmo ficará assim: padding: 10px, 10px, 10px, 10px; sempre nos sentido horario, CIMA, DIREITA ,BAIXO E ESQUERDA */
+
+margin-top: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+margin: auto;
+/*  como deixar o codigo menor, simples é so fazer a seguinte coisa, ir na sequencia 
+margin: ( top ) 10px, ( right ) 10px, ( bottom ) 10px, ( left ) 10px em reusmo ficará assim: margin: 10px, 10px, 10px, 10px; sempre nos sentido horario, CIMA, DIREITA ,BAIXO E ESQUERDA */
+}
+
+P{
+    background-color: lightgray;
+    height: 69px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: darkslategray;
+   
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}

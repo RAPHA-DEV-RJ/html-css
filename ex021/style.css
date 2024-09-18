@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(43, 199, 103, 0.816);
+}
+h1{
+    color: blue;
+}
+p{
+    text-align: justify;
+
+}
+h2{
+    color: red;
+}
+h1#principal{
+    text-align: center;
+}
+.basico{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+
+}
+
+.intermediario{
+    text-align: center;
+    color: red;
+}
+
+.avançado{
+    text-align: center;
+    color:purple;
+
+}
